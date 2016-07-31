@@ -4,7 +4,7 @@ A Leiningen template to create Riemann plugins.
 
 ## Usage
 
-    lein new riemann_plugin {{plugin-name}}
+    lein new riemann {{plugin-name}}
 
 ## License
 
