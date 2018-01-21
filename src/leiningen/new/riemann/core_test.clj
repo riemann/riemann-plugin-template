@@ -1,2 +1,1 @@
-(ns {{name}}.core-test
-)
+(ns {{name}}.core-test)
